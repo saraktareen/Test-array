@@ -15,7 +15,7 @@ public class array
             //for loop to display all the values of the array
             for (int i=0; i <arr.length; i++)
             {
-                System.out.printf("A[" + i + "] = " + arr[i] + "%n");
+                System.out.printf("arr[" + i + "] = " + arr[i] + "%n");
             }
         }
     }
