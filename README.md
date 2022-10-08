@@ -1,2 +1,1 @@
-"# Test-array" 
-"# Test-array" 
+This code creates an array of 10 and generates a random number ranging from 0-50 for each index of the array. It then displays the output of the whole array showing the array name, the index number and the value that is stored in each index.
