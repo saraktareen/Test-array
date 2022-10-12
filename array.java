@@ -16,6 +16,7 @@ public class array
             for (int i=0; i <arr.length; i++)
             {
                 System.out.printf("arr[" + i + "] = " + arr[i] + "%n");
+                sys.printf("test");
             }
         }
     }
